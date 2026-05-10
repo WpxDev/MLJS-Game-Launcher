@@ -1,5 +1,5 @@
 ﻿{
-    "version": "2.0",
+    "version": "2.4",
     "files": [
         {
             "filePath": "aria2c.exe",
@@ -13,7 +13,7 @@
         },
         {
             "filePath": "launcher_manifest.json",
-            "hash": "5071c15ff2ebd986b79452de8c9a069ad8d46cc8b6d9347caa26d89c7a097d38",
+            "hash": "f29e186e9cb6b626a4bdb660bc939ba5405c86b6584e6b6731b219a2eef1ae35",
             "fileSize": 48761
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "filePath": "Version.txt",
-            "hash": "d84bdb34d4eeef4034d77e5403f850e35bc4a51b1143e3a83510e1aaad839748",
+            "hash": "0814305f8cfb2f14744b7c7ce9da6768802df7bdd801d62be3e0d7caa0d84c81",
             "fileSize": 3
         },
         {
@@ -53,13 +53,13 @@
         },
         {
             "filePath": "MJ Launcher_Data/boot.config",
-            "hash": "582041444f785e35bedd4d2b9089de64a4775d25d011bd2b8f4229585b35f9bb",
+            "hash": "191d3d30a66b74610197147ee28135b2cb0aed655f5690352738f93289c859fb",
             "fileSize": 151
         },
         {
             "filePath": "MJ Launcher_Data/data.unity3d",
-            "hash": "227ab703f853b006137ebffb0fe3640b2c2d91e35533784c8f552213db6e13e8",
-            "fileSize": 6599905
+            "hash": "09cf2e9d9ce24db536bf53a24f5d7ea08e57f0f1f0e8be4f7ed73e8b5efa214b",
+            "fileSize": 6615329
         },
         {
             "filePath": "MJ Launcher_Data/RuntimeInitializeOnLoads.json",
@@ -70,6 +70,126 @@
             "filePath": "MJ Launcher_Data/ScriptingAssemblies.json",
             "hash": "1952b567608fab9523d28ca6fbf8b9648169911227807200ca1980725fb3dc96",
             "fileSize": 4499
+        },
+        {
+            "filePath": "temp_torrent/American Truck Simulator.torrent",
+            "hash": "08c29e6a99166bd4722ea25991d007d42f0a7b91a1fc39980aab3582c77f26eb",
+            "fileSize": 243173
+        },
+        {
+            "filePath": "temp_torrent/BeamNG.torrent",
+            "hash": "ef0b11510fd60559aa3832cad6e4837c87549e17d4fd3bbf8012e802066c79ab",
+            "fileSize": 257846
+        },
+        {
+            "filePath": "temp_torrent/Buckshot Roulette.torrent",
+            "hash": "7fecc35e12b7d4d9e23e3bd3e283a2a794bdce2d795c30ccda6136f203f78bc2",
+            "fileSize": 38123
+        },
+        {
+            "filePath": "temp_torrent/ChainedTogether.torrent",
+            "hash": "255a80b30bff7fb6ca62f5bc921e77450afb81c1f944dff37b65e53d337a918c",
+            "fileSize": 82571
+        },
+        {
+            "filePath": "temp_torrent/Deadly Quiet.torrent",
+            "hash": "7d68abcd87de28ec079ded16b63640a435c78d46f0cb621dd855950951b0fb59",
+            "fileSize": 74510
+        },
+        {
+            "filePath": "temp_torrent/Emissary Zero.torrent",
+            "hash": "931d87f2b9c44eee088a82e9feb8080afaaf604eedc99e5e18eda9c932b2945d",
+            "fileSize": 88194
+        },
+        {
+            "filePath": "temp_torrent/Escape Simulator 2.torrent",
+            "hash": "6009e002e954898847c533ebb05d0811ce107e7e3ef7b2eb27e00590d9f49cb9",
+            "fileSize": 148523
+        },
+        {
+            "filePath": "temp_torrent/Human Fall Flat.torrent",
+            "hash": "420b821b94278a06558c733da1cb55095fae46c38de659c75c090c51cb8a7ed2",
+            "fileSize": 69381
+        },
+        {
+            "filePath": "temp_torrent/Lethal Company.torrent",
+            "hash": "fe29b75bbeb425777aee19054b479b0fe38a65961f919680b80a2071bc9eb334",
+            "fileSize": 48911
+        },
+        {
+            "filePath": "temp_torrent/Moving Out.torrent",
+            "hash": "2b03fb6ab90095e1e40f3aa739509beaadda82653ae7589afcb9bbfc68dcae13",
+            "fileSize": 44271
+        },
+        {
+            "filePath": "temp_torrent/PANICORE.torrent",
+            "hash": "36d06b5488bcb9e239aa883fd4a43bcdf132ebc812df811c01dc4abbfac757a1",
+            "fileSize": 115423
+        },
+        {
+            "filePath": "temp_torrent/Paranoia Place.torrent",
+            "hash": "1e2b17bd342b31f6ed99f21804afa889b7dd2bdc8020fd136a668f17ab75bc03",
+            "fileSize": 96295
+        },
+        {
+            "filePath": "temp_torrent/Phasmophobia.torrent",
+            "hash": "960bdb1c8e6e1310adf888d1b3176cad3f3e8234c464c93a72e812e16d4e9eb8",
+            "fileSize": 157973
+        },
+        {
+            "filePath": "temp_torrent/REANIMAL.torrent",
+            "hash": "61ee004aa670b70008a2a39342967d40007f600b22378f0faff373c25258eff2",
+            "fileSize": 128975
+        },
+        {
+            "filePath": "temp_torrent/REPO.torrent",
+            "hash": "4b6088b17d474629528496e9c6d4fa7e5ac2c97da8ae5b8475ce1ac1622ae8b0",
+            "fileSize": 39490
+        },
+        {
+            "filePath": "temp_torrent/Roadside Research.torrent",
+            "hash": "d450b07c8bded31f94b249ec609270dd1a23884df7defba116e405f4127dbdcc",
+            "fileSize": 29784
+        },
+        {
+            "filePath": "temp_torrent/RV There Yet.torrent",
+            "hash": "72b38eef6dfba2d67c2c7ed8e13a1380683596c5d3605cc032cbeb895733a921",
+            "fileSize": 75295
+        },
+        {
+            "filePath": "temp_torrent/Scam Line.torrent",
+            "hash": "5b840514b3598222c37d63205b3a5859ecbf9152b0dbd928ef06001c57fcccfb",
+            "fileSize": 21906
+        },
+        {
+            "filePath": "temp_torrent/Schedule I.torrent",
+            "hash": "a09b98c9db5cd2bd5c68c728eb403a821dd0a8fbde5a05daf64078f144682265",
+            "fileSize": 99448
+        },
+        {
+            "filePath": "temp_torrent/SCP 5K.torrent",
+            "hash": "46f94e94837fb52c30c995b90af3102f343df03f9fc559f32059a36b583d3faf",
+            "fileSize": 211154
+        },
+        {
+            "filePath": "temp_torrent/Supermarket Simulator.torrent",
+            "hash": "b349ec6aa29e7800e6dd4a471eb47df2a9776d55ac728df71838ff2d09ce3881",
+            "fileSize": 44700
+        },
+        {
+            "filePath": "temp_torrent/Teardown.torrent",
+            "hash": "27f9a4b0eaa5aa30ea8cebd6a1a77d8ddbfbca34e30fb64412f19457f02fb9a5",
+            "fileSize": 86546
+        },
+        {
+            "filePath": "temp_torrent/The Break In.torrent",
+            "hash": "a21f6f0789cf0a8606e8ed5f6a476019d1395f18d6a22232965f2af57f78b781",
+            "fileSize": 58299
+        },
+        {
+            "filePath": "temp_torrent/Zort.torrent",
+            "hash": "1e5eae3be95b46fbfa708a3331cce5b33f2eda19857820db2102852be8260175",
+            "fileSize": 61426
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Accessibility.dll",
