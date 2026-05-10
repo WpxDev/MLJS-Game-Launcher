@@ -7,6 +7,16 @@
             "fileSize": 5649408
         },
         {
+            "filePath": "Bootstrapper.exe",
+            "hash": "c922eb948451a1990e469cf339d00d9b858bf1ef990fab7c8fcc78dc23d7dd8c",
+            "fileSize": 162304
+        },
+        {
+            "filePath": "launcher_manifest.json",
+            "hash": "81c5f1250bdc47e2e72457f419f76351871d2fec9787e6fde3484b8c393cee75",
+            "fileSize": 48577
+        },
+        {
             "filePath": "MJ Launcher.exe",
             "hash": "7b26b6beb1519b19531bb1a6010cee57e41e08e4af88f64e8cca9f2455be632f",
             "fileSize": 667648
@@ -20,6 +30,11 @@
             "filePath": "UnityCrashHandler64.exe",
             "hash": "c9efac61a90177630dbf9ff68dc27102338c8e975e3c1ac353aa1e79cedc0bef",
             "fileSize": 1559984
+        },
+        {
+            "filePath": "UnityPlayer.dll",
+            "hash": "2ed8d2183c03e7abaef163cf295bde303b8bd26705b02a02ca54ff5c1b423261",
+            "fileSize": 34047912
         },
         {
             "filePath": "Version.txt",
@@ -38,13 +53,13 @@
         },
         {
             "filePath": "MJ Launcher_Data/boot.config",
-            "hash": "65e4045d7ca52c2ba90e988aa02636401e5c5e83f0172ff7b898ceef6f818357",
+            "hash": "582041444f785e35bedd4d2b9089de64a4775d25d011bd2b8f4229585b35f9bb",
             "fileSize": 151
         },
         {
             "filePath": "MJ Launcher_Data/data.unity3d",
-            "hash": "d99b720305baae67a787ed2710a01e5292a2e79eb5b280cf6cfe70d93333427c",
-            "fileSize": 6561036
+            "hash": "227ab703f853b006137ebffb0fe3640b2c2d91e35533784c8f552213db6e13e8",
+            "fileSize": 6599905
         },
         {
             "filePath": "MJ Launcher_Data/RuntimeInitializeOnLoads.json",
@@ -53,7 +68,7 @@
         },
         {
             "filePath": "MJ Launcher_Data/ScriptingAssemblies.json",
-            "hash": "f134fb1e5a0cd651b53dfd58a8498a95040e2204d0dfd9652db1b3887566205a",
+            "hash": "1952b567608fab9523d28ca6fbf8b9648169911227807200ca1980725fb3dc96",
             "fileSize": 4499
         },
         {
@@ -73,8 +88,8 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Assembly-CSharp.dll",
-            "hash": "aee8c3744f1321f42c139096dd2f8ff23799b52825c67d34001157ab9029e3cb",
-            "fileSize": 1439744
+            "hash": "6d4e87e1cc9c3cdce693b928dd3098f8971e79f1f0de8b83053b9d2d1bb6b9d1",
+            "fileSize": 1458176
         },
         {
             "filePath": "MJ Launcher_Data/Managed/ConditionalExpression.dll",
