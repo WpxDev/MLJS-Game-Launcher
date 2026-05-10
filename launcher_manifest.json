@@ -7,6 +7,11 @@
             "fileSize": 5649408
         },
         {
+            "filePath": "launcher_manifest.json",
+            "hash": "84ba68014e9702197d9e4364a79c0854936918e6960a0c45e6eab7d948b3a7af",
+            "fileSize": 48203
+        },
+        {
             "filePath": "MJ Launcher.exe",
             "hash": "7b26b6beb1519b19531bb1a6010cee57e41e08e4af88f64e8cca9f2455be632f",
             "fileSize": 667648
