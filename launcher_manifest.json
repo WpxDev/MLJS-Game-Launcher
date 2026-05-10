@@ -1,5 +1,5 @@
 {
-    "version": "1.4",
+    "version": "900.1",
     "files": [
         {
             "filePath": "aria2c.exe",
@@ -48,13 +48,13 @@
         },
         {
             "filePath": "MJ Launcher_Data/boot.config",
-            "hash": "f164f0c0cf58ec1504107dff32a2ced46d52562488228a9d23193233670a55b6",
+            "hash": "8d91dec165ad74b713f3ddc6b9100466d0ad4f455970fd2c9fa0e09837449c66",
             "fileSize": 151
         },
         {
             "filePath": "MJ Launcher_Data/data.unity3d",
-            "hash": "da135fa85886923eed8eb53e0b5855566bff63c4e45d42d676921999d550cf91",
-            "fileSize": 6600071
+            "hash": "0b4d02629dd71ee1d4d565613ecdf0a172ea05e753a931d50115cdb66a455c61",
+            "fileSize": 6599788
         },
         {
             "filePath": "MJ Launcher_Data/RuntimeInitializeOnLoads.json",
@@ -63,8 +63,8 @@
         },
         {
             "filePath": "MJ Launcher_Data/ScriptingAssemblies.json",
-            "hash": "1952b567608fab9523d28ca6fbf8b9648169911227807200ca1980725fb3dc96",
-            "fileSize": 4499
+            "hash": "7a7ee23c87c4727b26ef04207392b3bde44139a0ce3a91f65be9c3bd31a4e955",
+            "fileSize": 4552
         },
         {
             "filePath": "temp_torrent/American Truck Simulator.torrent",
@@ -198,12 +198,12 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Assembly-CSharp-firstpass.dll",
-            "hash": "3e51b93014ceb543c7d3af19ffa0577de9aa7eef1fa806c78dd48dda498af321",
+            "hash": "a3e85afb5ecced71fa3e2c85724203a6b2fc027009b9c76b73e057fc74976695",
             "fileSize": 5120
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Assembly-CSharp.dll",
-            "hash": "b7556b3015cfcbfb2cc5098db85f31dc59dac608f7a30c6b4c04b3a34c6436f2",
+            "hash": "9c232d4d91038db1fb243aeb8620939537aaed2402132fe62f1145e371b4e5aa",
             "fileSize": 1458176
         },
         {
@@ -590,6 +590,11 @@
             "filePath": "MJ Launcher_Data/Managed/Unity.Multiplayer.Center.Common.dll",
             "hash": "af5a02c4535dc17e1301472290a8d4075a9c9e7c7706ffabe7630ada0dfb6dcc",
             "fileSize": 10752
+        },
+        {
+            "filePath": "MJ Launcher_Data/Managed/Unity.PlayerPrefsEditor.Samples.SampleScene.dll",
+            "hash": "3395ddb7cc360ab8de6b8f1895cc490ce4ef5549239d39614a91d6ab7b844348",
+            "fileSize": 5120
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.Profiling.Core.dll",
