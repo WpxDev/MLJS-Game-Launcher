@@ -1,0 +1,43 @@
+[16:32:42] ================================
+[16:32:42] Updater started
+[16:32:42] Root: M:\Unity Projects\MLJS-Game-Launcher-efe779ada57ea637ffdaf0ecc28db15511690bb5\
+[16:32:42] Temp: M:\Unity Projects\MLJS-Game-Launcher-efe779ada57ea637ffdaf0ecc28db15511690bb5\TempUpdate
+[16:32:42] Launcher: M:\Unity Projects\MLJS-Game-Launcher-efe779ada57ea637ffdaf0ecc28db15511690bb5\MJ Launcher.exe
+[16:32:42] ✔ TempUpdate found
+[16:32:42] Waiting for process: MJ Launcher
+[16:32:42] ✔ Process closed
+[16:32:42] Applying update...
+[16:32:42] Files found: 28
+[16:32:42] ✔ Replaced: launcher_manifest.json
+[16:32:42] ✔ Replaced: Version.txt
+[16:32:42] ✔ Replaced: MJ Launcher_Data\boot.config
+[16:32:42] ✔ Replaced: MJ Launcher_Data\data.unity3d
+[16:32:42] ✔ Replaced: temp_torrent\American Truck Simulator.torrent
+[16:32:42] ✔ Replaced: temp_torrent\BeamNG.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Buckshot Roulette.torrent
+[16:32:42] ✔ Replaced: temp_torrent\ChainedTogether.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Deadly Quiet.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Emissary Zero.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Escape Simulator 2.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Human Fall Flat.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Lethal Company.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Moving Out.torrent
+[16:32:42] ✔ Replaced: temp_torrent\PANICORE.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Paranoia Place.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Phasmophobia.torrent
+[16:32:42] ✔ Replaced: temp_torrent\REANIMAL.torrent
+[16:32:42] ✔ Replaced: temp_torrent\REPO.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Roadside Research.torrent
+[16:32:42] ✔ Replaced: temp_torrent\RV There Yet.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Scam Line.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Schedule I.torrent
+[16:32:42] ✔ Replaced: temp_torrent\SCP 5K.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Supermarket Simulator.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Teardown.torrent
+[16:32:42] ✔ Replaced: temp_torrent\The Break In.torrent
+[16:32:42] ✔ Replaced: temp_torrent\Zort.torrent
+[16:32:42] ✔ Temp cleaned
+[16:32:42] Restarting launcher...
+[16:32:42] ✔ Launcher started
+[16:32:42] 🎉 UPDATE COMPLETE
+[16:32:42] Press any key to exit...
