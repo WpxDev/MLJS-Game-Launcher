@@ -1,5 +1,5 @@
 {
-    "version": "6.0",
+    "version": "200.2",
     "files": [
         {
             "filePath": "aria2c.exe",
@@ -48,13 +48,13 @@
         },
         {
             "filePath": "MJ Launcher_Data/boot.config",
-            "hash": "c372123cd97f9a52239e3be4670d129cd43ab1eaf06db9b199caac3fff693297",
+            "hash": "9468fb8aa71d75a9cc276dc04bfbbf81c1ee29057f34ea3e5f44c8bd7b2eaa12",
             "fileSize": 151
         },
         {
             "filePath": "MJ Launcher_Data/data.unity3d",
-            "hash": "d6c1ee99f539670a2a69a8dad2b2cec46da9f806d8aaa65c1a33c018bb4f131d",
-            "fileSize": 6637476
+            "hash": "cdffb449c098a6c167183a0ad8227d9d948a7c06e6c4cd099d99ebb558182f2a",
+            "fileSize": 6630699
         },
         {
             "filePath": "MJ Launcher_Data/RuntimeInitializeOnLoads.json",
