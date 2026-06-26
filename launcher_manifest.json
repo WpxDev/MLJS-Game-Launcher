@@ -1,5 +1,5 @@
 {
-    "version": "2.6",
+    "version": "3.0",
     "files": [
         {
             "filePath": "aria2c.exe",
@@ -48,13 +48,13 @@
         },
         {
             "filePath": "MJ Launcher_Data/boot.config",
-            "hash": "cfce45944149a14202225b74d6a61de008783d1e0b61a5834b5421a2cec7ba5c",
+            "hash": "3b1ad6515384f5ba2bc809c9b84df5ecd644e262a6c2d0821f4eb883a7924f03",
             "fileSize": 151
         },
         {
             "filePath": "MJ Launcher_Data/data.unity3d",
-            "hash": "4c58e6b6ff671b6f64f09dbba44d0d1a012c61b25f040dad2d33b2df09a3b5e4",
-            "fileSize": 6651575
+            "hash": "005eb46826f68ddcc4ffea98697e21dea4cff48094dee1c7738e4a97abf147f1",
+            "fileSize": 6728301
         },
         {
             "filePath": "MJ Launcher_Data/RuntimeInitializeOnLoads.json",
@@ -88,8 +88,8 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Assembly-CSharp.dll",
-            "hash": "d23259296db1a7f0252990cc7b46f89b1181d859b346fd8fc929155869f1ad3f",
-            "fileSize": 1486848
+            "hash": "3c9625472d4e1466dc9e335475dab32e6cec6a5866807fa493c59b442c7acc6d",
+            "fileSize": 1498112
         },
         {
             "filePath": "MJ Launcher_Data/Managed/ConditionalExpression.dll",
