@@ -1,5 +1,5 @@
 {
-    "version": "4.0",
+    "version": "4.2",
     "files": [
         {
             "filePath": "aria2c.exe",
@@ -48,12 +48,12 @@
         },
         {
             "filePath": "MJ Launcher_Data/boot.config",
-            "hash": "92a899318fbfc40aa7d97b344695d2ba2038a5fc5ed3c560dc4e26e3ddc1e3ef",
+            "hash": "3292c2c3c8c75f10e58fa2db07493229312ace6e6fa37f9d0484240a2fa8f70e",
             "fileSize": 151
         },
         {
             "filePath": "MJ Launcher_Data/data.unity3d",
-            "hash": "4f459d8f2308b2c6c3a99cd42d1e1fd4911e2cee873409253fe12f9115f74409",
+            "hash": "068e60cca6507bcbfa33e7b706a56f1a1cb440d715d8d1591e6037d3b5fa73aa",
             "fileSize": 6538123
         },
         {
@@ -65,11 +65,6 @@
             "filePath": "MJ Launcher_Data/ScriptingAssemblies.json",
             "hash": "7a7ee23c87c4727b26ef04207392b3bde44139a0ce3a91f65be9c3bd31a4e955",
             "fileSize": 4552
-        },
-        {
-            "filePath": "SavesDir/data.json",
-            "hash": "f994e66eea6f4ecf1f8c84688761ab1dc509f4dd8b65aafbed48116358cfddb8",
-            "fileSize": 1536
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Accessibility.dll",
