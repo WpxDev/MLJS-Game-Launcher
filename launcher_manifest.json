@@ -48,13 +48,13 @@
         },
         {
             "filePath": "MJ Launcher_Data/boot.config",
-            "hash": "e0318fb73f67fb811a9cae6287d136c1f1a80a4281dadb89611c31b6b45b7a5e",
+            "hash": "77746d8042280fabe4599f1d3041c9d7b108c5761b9f7bd796f33b029b075ba0",
             "fileSize": 151
         },
         {
             "filePath": "MJ Launcher_Data/data.unity3d",
-            "hash": "a2210e60359ff83f815f31f9a9e53d7af33b230fa3dd5eb9d9f07feb97adaf08",
-            "fileSize": 9837552
+            "hash": "2c624beec5d56f67cb7159bc8e154305719596bad69e9d07d1530a86d6a9c662",
+            "fileSize": 9837825
         },
         {
             "filePath": "MJ Launcher_Data/RuntimeInitializeOnLoads.json",
@@ -68,8 +68,8 @@
         },
         {
             "filePath": "MJ Launcher_Data/sharedassets0.resource",
-            "hash": "42d0909358096ccf3fb8c6690c889d0e1ce3d1bb6f80ec7c041ed920c7d38b68",
-            "fileSize": 161028437
+            "hash": "35dc299aa3d49cef407430d439b20e2ed121ab0f79b2790cea625ceb0478fc3a",
+            "fileSize": 96406357
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Accessibility.dll",
