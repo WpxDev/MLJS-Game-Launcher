@@ -41,3 +41,9 @@
 [16:32:42] ✔ Launcher started
 [16:32:42] 🎉 UPDATE COMPLETE
 [16:32:42] Press any key to exit...
+[09:55:30] ================================
+[09:55:30] Updater started
+[09:55:30] Root: M:\Unity Projects\MJ Launcher\
+[09:55:30] Temp: M:\Unity Projects\MJ Launcher\TempUpdate
+[09:55:30] Launcher: M:\Unity Projects\MJ Launcher\MJ Launcher.exe
+[09:55:30] ❌ TempUpdate NOT FOUND
