@@ -1,5 +1,5 @@
 {
-    "version": "6.1",
+    "version": "6.2",
     "files": [
         {
             "filePath": "aria2c.exe",
@@ -48,13 +48,13 @@
         },
         {
             "filePath": "MJ Launcher_Data/boot.config",
-            "hash": "35ff06f1b67e0a234558086b3224cd79b2606f45061300e6a6150fe543201563",
+            "hash": "0c3cb61cbde7ba5fc05074cf44d7ca02a7241bfe50477b2e39f327e771895626",
             "fileSize": 151
         },
         {
             "filePath": "MJ Launcher_Data/data.unity3d",
-            "hash": "b1a20d1969633b8f6263280b94ec25f437be179e1edbe0d9332b0cf6c56dc2d5",
-            "fileSize": 9833030
+            "hash": "b518225dbd47725d43dbb5049353a6205be723741c4c9d2e0eb74f7310a8a24a",
+            "fileSize": 9849594
         },
         {
             "filePath": "MJ Launcher_Data/RuntimeInitializeOnLoads.json",
@@ -68,8 +68,8 @@
         },
         {
             "filePath": "MJ Launcher_Data/sharedassets0.resource",
-            "hash": "35dc299aa3d49cef407430d439b20e2ed121ab0f79b2790cea625ceb0478fc3a",
-            "fileSize": 96406357
+            "hash": "236d79e77b40de2351c284a3ead6ceb756be5d08a803b9bb5cf679f02b9c2216",
+            "fileSize": 96799221
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Accessibility.dll",
@@ -88,8 +88,8 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Assembly-CSharp.dll",
-            "hash": "9e72bf7f570bbb2bfa1a97c2e19503713506b91ecc8606177a34a1e91ea0a70f",
-            "fileSize": 1511424
+            "hash": "acaac3c987f54de3b04d40f69dd5974452078c3ab1ef1dd7f10f1ece5064e3d9",
+            "fileSize": 1520640
         },
         {
             "filePath": "MJ Launcher_Data/Managed/ConditionalExpression.dll",
