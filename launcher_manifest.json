@@ -1,5 +1,5 @@
 {
-    "version": "6.6",
+    "version": "6.6.5",
     "files": [
         {
             "filePath": "aria2c.exe",
@@ -48,13 +48,13 @@
         },
         {
             "filePath": "MJ Launcher_Data/boot.config",
-            "hash": "1a7fc67f47fba69e4aade60e4e95c536140fd145ead104c28ba9b1bd736fbce8",
+            "hash": "25bc70b2ffc9110a8c1a231bba5327ddd2220a154e95441159ab89ee9d3bf448",
             "fileSize": 151
         },
         {
             "filePath": "MJ Launcher_Data/data.unity3d",
-            "hash": "7e79cfe33650af7e703b6f4e0d8ae8f11b202c79665e7581965c9ad8464fdb11",
-            "fileSize": 16972462
+            "hash": "6a834a715118323af05f0eb77bdccda52a53d66e0a3daa860df9c89a6fb6af1a",
+            "fileSize": 16588355
         },
         {
             "filePath": "MJ Launcher_Data/RuntimeInitializeOnLoads.json",
@@ -88,7 +88,7 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Assembly-CSharp.dll",
-            "hash": "9a6c1c5ccc512b85fd2b2d7e21933a08e400aa408ebae7171423ee2b8eaf2539",
+            "hash": "617e6c6354c13dba1d13f4ef80d5bbfcc1c532e7e8196026d388d6302c8e8776",
             "fileSize": 1523200
         },
         {
