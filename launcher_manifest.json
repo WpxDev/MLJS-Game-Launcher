@@ -1,5 +1,5 @@
 {
-    "version": "6.4",
+    "version": "6.5",
     "files": [
         {
             "filePath": "aria2c.exe",
@@ -48,13 +48,13 @@
         },
         {
             "filePath": "MJ Launcher_Data/boot.config",
-            "hash": "427aa1fd68851922ab4b45d85640dd6b355add559e216b022e9302cf66fb08f1",
+            "hash": "5a305fa0f4059e7b7625b34bffd9b6a0a2d5d6b92abb64c31ee958deacdc453a",
             "fileSize": 151
         },
         {
             "filePath": "MJ Launcher_Data/data.unity3d",
-            "hash": "8a1eb7cf9dff58bfe15f1566150d4e902548800da10aa446fb36f8aefa2dce6e",
-            "fileSize": 16954760
+            "hash": "9abd985933de1a6aea4b0e43fdf075161570c518511b81aa318c4e479442d0f6",
+            "fileSize": 16964027
         },
         {
             "filePath": "MJ Launcher_Data/RuntimeInitializeOnLoads.json",
@@ -68,8 +68,8 @@
         },
         {
             "filePath": "MJ Launcher_Data/sharedassets0.resource",
-            "hash": "236d79e77b40de2351c284a3ead6ceb756be5d08a803b9bb5cf679f02b9c2216",
-            "fileSize": 96799221
+            "hash": "18ca67c265b86bbc3d7417980348dc05abca61859bd3732a4723749cf9f12089",
+            "fileSize": 98098357
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Accessibility.dll",
