@@ -1,5 +1,5 @@
 {
-    "version": "6.8",
+    "version": "6.9",
     "files": [
         {
             "filePath": "aria2c.exe",
@@ -13,7 +13,7 @@
         },
         {
             "filePath": "MJ Launcher.exe",
-            "hash": "9c9eb93ab944b07086af0c957bf102227536343854ea7ce6cd950f622c6e56c1",
+            "hash": "231ca0b388c06b23b4a0d1c13b3363d2264041e16c93aacbe320e6160bb5dc50",
             "fileSize": 667648
         },
         {
@@ -32,11 +32,6 @@
             "fileSize": 34047912
         },
         {
-            "filePath": "updater_log.txt",
-            "hash": "918350516481d03350c798f4e32dd6b0d6f36c3ec57c59c55e4ba5a91533eb4b",
-            "fileSize": 2653
-        },
-        {
             "filePath": "D3D12/D3D12Core.dll",
             "hash": "31f364f2b3aa1753e7ba9ff912d0721c8f424be5fa14503efddafbb30c635d3b",
             "fileSize": 5908408
@@ -48,13 +43,13 @@
         },
         {
             "filePath": "MJ Launcher_Data/boot.config",
-            "hash": "a08ebf6592817e8492ec0216a069a407d4556c597fe1c8623f69daca5e8a8892",
+            "hash": "d3029103401fc9d021cf0a30baff7fc958e1c711fb0fe0e5b9c857082ef7a68d",
             "fileSize": 158
         },
         {
             "filePath": "MJ Launcher_Data/data.unity3d",
-            "hash": "f2ade8c60f445a9c96316a1f7fbcce5d5dcd80c6af76c9523b3250e3b2bdd7aa",
-            "fileSize": 16814321
+            "hash": "147f6c431b3a66dc8b56edd9fbcb5f66baa3a23c742e751998fcf530ded50452",
+            "fileSize": 15958078
         },
         {
             "filePath": "MJ Launcher_Data/RuntimeInitializeOnLoads.json",
@@ -63,13 +58,13 @@
         },
         {
             "filePath": "MJ Launcher_Data/ScriptingAssemblies.json",
-            "hash": "e2646c35bbd6f0fb4e32abc81f3e0ad5a13fd5c1b35bf3f37699b2b6d5740271",
-            "fileSize": 4604
+            "hash": "9e320e7ae97cbd1ce126674c398ddbc2527f5267f2599890ad352466fbafa2a1",
+            "fileSize": 4643
         },
         {
             "filePath": "MJ Launcher_Data/sharedassets0.resource",
-            "hash": "18ca67c265b86bbc3d7417980348dc05abca61859bd3732a4723749cf9f12089",
-            "fileSize": 98098357
+            "hash": "840b0eef008818f8f75fff6d86e911ec5e7fad8658cbca83885b793f84dc2faf",
+            "fileSize": 98219573
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Accessibility.dll",
@@ -83,17 +78,17 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Assembly-CSharp-firstpass.dll",
-            "hash": "3f25d66f538477ca7883504faac79ae7e330743ed0f403a1ebbb57f5d649ea96",
+            "hash": "a02185e5dcc645bbaed0d5be1d49d016245021e3658da5cb08f447e7e225cc69",
             "fileSize": 5120
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Assembly-CSharp.dll",
-            "hash": "b80585dc1d5267b50140f28d9813c0f2ee2d5ad3d701bf7c62124fd06090c6d7",
-            "fileSize": 1534976
+            "hash": "c3d2199bad2bba1647440d0ad496bef39a54a8b386c0bc60354bf87d816a76d9",
+            "fileSize": 1559552
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Coffee.UIEffect.dll",
-            "hash": "2cb71c10d0b943507d0a041291943a07fd171861fac740cb0719a8412f7ff3af",
+            "hash": "1ed07d7d0677bd29281d8988176ca2c893a0e5a82d9f151343e0d853de927fce",
             "fileSize": 114688
         },
         {
@@ -107,18 +102,23 @@
             "fileSize": 26624
         },
         {
+            "filePath": "MJ Launcher_Data/Managed/Discord.Sdk.dll",
+            "hash": "0ca48f2bfaf70749d3d4cc34230673e927cb09d2c80ddb8d0e7032fc7ed85bbb",
+            "fileSize": 177152
+        },
+        {
             "filePath": "MJ Launcher_Data/Managed/ICSharpCode.SharpZipLib.dll",
             "hash": "cb9c05b5a1e1db26ff43490ee26f2e02abae3f321d2dd5ddd43a68da48eab83d",
             "fileSize": 253952
         },
         {
             "filePath": "MJ Launcher_Data/Managed/lootlocker.lootlockersdk.runtime.dll",
-            "hash": "ce15a0c4b88d9b6a155311b06d8d2c12ffd24bbfdf915cc3e0f4bcd92fdf81c4",
+            "hash": "cc68f806ac8870c67100aef2b45c7bf89b2ffafb2e1849690e2a4741959c9b69",
             "fileSize": 494080
         },
         {
             "filePath": "MJ Launcher_Data/Managed/LootLockerExamples.dll",
-            "hash": "d11875e75f3de106917703adad66455e481501eb05e839eb52b13ba55a691d04",
+            "hash": "28d7ce596378d909666f58131f13c0ad35d3b8aefb0f0d0ea27f98a616ccb84c",
             "fileSize": 41472
         },
         {
@@ -205,6 +205,11 @@
             "filePath": "MJ Launcher_Data/Managed/ReusableTasks.dll",
             "hash": "d7073e7df4891fe6452b6c356b431fe9b59ee5687ca2cfe9a0f92b4d4abf3da2",
             "fileSize": 22016
+        },
+        {
+            "filePath": "MJ Launcher_Data/Managed/RTLTMPro.dll",
+            "hash": "a1b2300a73cfeeba021446c793a8722fb418dd38cf5d8357c4a8bcf30162a9ec",
+            "fileSize": 25600
         },
         {
             "filePath": "MJ Launcher_Data/Managed/SevenZipExtractor.dll",
@@ -398,42 +403,42 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.2D.Animation.Runtime.dll",
-            "hash": "2d60b4923f593702c45e528f4868f7749d52c2893f23f7c2f68f4c7806ee5c6c",
+            "hash": "ae120ee2fc34698d97e9089a3be2458fbcd7d076681611f6a6efd52b7a7cf86e",
             "fileSize": 87040
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.2D.Common.Runtime.dll",
-            "hash": "a987cbbd9cf2d9ecbfa512584b9257ceb194e79494a917e36315632bd79c084b",
+            "hash": "be89973e78f6b7b54d63b5a621fde5a64ca5ea44b5bc6c419b234f152bcb99ed",
             "fileSize": 47616
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.2D.IK.Runtime.dll",
-            "hash": "3e30d93ffc831982e1a004518da13b2cd145b10df2267a1c9ef5f315e5bc6a73",
+            "hash": "4090ae41a13ff4121000f822aa5927d96f2185753f0c22a5cfb7e1a2fe63351b",
             "fileSize": 27136
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.2D.PixelPerfect.dll",
-            "hash": "2701d338f023b247d73eead8b9f61a8adc3badea7e102710c412462a84740d5c",
+            "hash": "572ad19cf16b150ea28091f7fbc89863d41073f110629aa851fbeedf80eb6e7c",
             "fileSize": 12288
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.2D.SpriteShape.Runtime.dll",
-            "hash": "4ac014215d655e21abe90b6758fe45008cecd179b27a29b5c0834dd11f2dee01",
+            "hash": "9231000d9209c5ba4801ebeac90d30353b1e11fd98c0bb49c7aa43512abc467f",
             "fileSize": 113152
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.2D.Tilemap.Extras.dll",
-            "hash": "ee763d3751f876926bb6d565472bc19fedd94d8dc64041cd8e7ea234d5812654",
+            "hash": "f1a31f4764ce2281f64c3aeb61e2efeb1de1a1c043ba5d93ccd507420196f634",
             "fileSize": 39936
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.Addressables.dll",
-            "hash": "b4a9f1b3095600e069aab67e0dcb2dc6fd4b5b16e7fafad7efb77b234f5e2827",
+            "hash": "e0ce3f1cf9cf221cca743d81b670d77dc932573202a66f1649640c1875bbdda6",
             "fileSize": 116736
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.Burst.dll",
-            "hash": "7be0d77618862990b795f17021e7e6f106c3b126d67ea80c1d93a62fd0309554",
+            "hash": "d9981e78e7a8b592b5c75233e13d80d6df7537e2cb8d3e5bd436a0b216a14dc2",
             "fileSize": 304640
         },
         {
@@ -443,7 +448,7 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.Collections.dll",
-            "hash": "c31fbe0bb79ce69d67677317b08038eab8d273a42749fb428082eac4025f956f",
+            "hash": "1ec7cb227892cafe928bc4d79505a57818e6d101f8c8a9ca1ca37b2fa63f9b8d",
             "fileSize": 450560
         },
         {
@@ -453,67 +458,67 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.InputSystem.dll",
-            "hash": "f618c69586d55e180cadbf5cc083ccfa5ef79e16d11c5ce7dad819991ed7b6e5",
-            "fileSize": 1133568
+            "hash": "ca10948e800f4f5c99a83db20fcf1059032908a145421207a85d803e5b1c1027",
+            "fileSize": 1127424
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.InputSystem.ForUI.dll",
-            "hash": "99b71b6c42e8f7285a78e2e059c253a570cc38b6b4bbfb70a1304520c8176b71",
+            "hash": "b9c965065dfdb034a4bd624db39ded1e3ebf9447317e89ef6fa4d82d90375d0a",
             "fileSize": 16896
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
-            "hash": "7c4a88061c704ff67e98b4c650cf496cd55427ad5e04090e3425c4265ea76478",
+            "hash": "cf371a3d790306c33734fea5366dc9304748e1ff7a257b43a17b86dc39fc6486",
             "fileSize": 6656
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.InternalAPIEngineBridge.013.dll",
-            "hash": "61beb657df1d6949cfdd8054cc160a71958578e76b8b904e366749edf2c101a3",
+            "hash": "572a9032d1e4007e740ed91a7a61412593d8926426ad2210fb02bd745f0262f1",
             "fileSize": 5632
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.Localization.dll",
-            "hash": "868f192cce3919e96e416a3b7466a245b615a55c0e582eff2b30402eda23ac29",
-            "fileSize": 314880
+            "hash": "890284ccaef30361bbd29bc3e05fc908e3c63edab24e90388b4e84f88d3ba348",
+            "fileSize": 315392
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.Mathematics.dll",
-            "hash": "6c377a80c0170626f8c933f0889da6f15e7ee8bc86590cfb7c961288a71a06af",
+            "hash": "1964bb6b7c468294ad6e006565ad3c8caf95acb66793d90fda9fdf201af6226a",
             "fileSize": 752640
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.Multiplayer.Center.Common.dll",
-            "hash": "6eb514799c71448106d3f37c83f69917b0a36338c48377e4af7761e0d5123243",
+            "hash": "a428f3ee09b54b2607276462814a2b0fc2885324de614475673b163667462e09",
             "fileSize": 10752
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.PlayerPrefsEditor.Samples.SampleScene.dll",
-            "hash": "8f6da5d5d8a3ef4f2bf8dff41c8ad7ddb86ee3e4e9d823ac2ffe07ef0796de50",
+            "hash": "51fec52cbeeae512eaf826ad59405f5305f6f0e87daf68f47e73b64365f74742",
             "fileSize": 5120
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.Profiling.Core.dll",
-            "hash": "fbcebaa3579e5329cad490a60804b6efadc092aee44d08e08a2a03b569c3f8fe",
+            "hash": "2fb71c0478c3d8c8a271d42c4b451643954464026deebf42adeef4a9a7643d28",
             "fileSize": 10240
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.ResourceManager.dll",
-            "hash": "a536bf9c82907c5c12f6648801508cb8a6a6ee142dcf33b705418af3ecbf1dac",
+            "hash": "0f3ed6d9e241ed5105cd5f4403ff6d51138ea226c7611fc75775fce55c0166de",
             "fileSize": 141312
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.ScriptableBuildPipeline.dll",
-            "hash": "0a6f2733751cfe84509dc4f42b8be9a2695d8a6caa093be6e20b11fa83fa57c7",
+            "hash": "a9f5221c8d96e3ce73194c04d8197fa0a3a4101fbf349fe0e6533e0a8553a2fa",
             "fileSize": 8704
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.TextMeshPro.dll",
-            "hash": "d78776cc541739195cf1baa35f71ba230431ea6c7a1c6d0b4c7ce65924ed15f1",
+            "hash": "86a6fa24989c0a1580b10ccdf2128453db02d5ac3905b0bb0ba4850a9d93a928",
             "fileSize": 446464
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.Timeline.dll",
-            "hash": "3c86d4a6e54106a0a5638c713add0eb05e9219ab26a01d49677e102d4e05a7fe",
+            "hash": "3409d6551cc57ba4d65c322bee2e0f732ac6ba938566efccc2b93e4fe682f45d",
             "fileSize": 133120
         },
         {
@@ -523,17 +528,17 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.VisualScripting.Core.dll",
-            "hash": "6808cc25775a65b3bf16a58b19a22d627bbc55e9b2af18a4bb58ab7c1bcb71f0",
+            "hash": "bb289c4c308725b616253483a013b70161ffed8f6e69a2153e79a435d952a110",
             "fileSize": 629760
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.VisualScripting.Flow.dll",
-            "hash": "a6f1ab9ef64b94585bd914d3b6b72dc7da91c229187d671f927314a581f3d66f",
-            "fileSize": 407552
+            "hash": "ce0edcbeb8de3ae85e65d7d1e4a342bcd60dc1aa0f4782924cd10f84c3e170f3",
+            "fileSize": 406528
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Unity.VisualScripting.State.dll",
-            "hash": "597153f281fa45823228b7cb17c6631eb3c331c6c47821336037d31c6aec8b8e",
+            "hash": "20e2622ed010fe6c2210f2f1d94a12d255510a7c99412e241e47f6e64fec23b2",
             "fileSize": 32256
         },
         {
@@ -818,7 +823,7 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/UnityEngine.UI.dll",
-            "hash": "b2e3f27996abecc6afe58aa00ced0da1360e052ff5a0bdb9a782a6c063123b75",
+            "hash": "8301786aaff5e70a885a557e2e9116c9a3459328c38914f12ed079cf428e9aa5",
             "fileSize": 275968
         },
         {
@@ -928,7 +933,7 @@
         },
         {
             "filePath": "MJ Launcher_Data/Managed/Xenia.InGameColorPicker.dll",
-            "hash": "aea823ac39e39ebf74af163442fe86251a7438de55404c4e564e4605cfd4cca2",
+            "hash": "6f1e118aa33c351fcb60f642084a08f126ee46093421309bf68104b148789bff",
             "fileSize": 61952
         },
         {
@@ -967,6 +972,41 @@
             "fileSize": 215040
         },
         {
+            "filePath": "MJ Launcher_Data/Plugins/x86_64/discord_krisp.dll",
+            "hash": "ac23404d58dd9002cadedc1123c555caa44852b3ce67fcd82128cf964877d53f",
+            "fileSize": 14757816
+        },
+        {
+            "filePath": "MJ Launcher_Data/Plugins/x86_64/discord_partner_sdk.dll",
+            "hash": "5916273cfec117068a63c654ba6776af83bb93723fe88e63e048745ab23db012",
+            "fileSize": 9882040
+        },
+        {
+            "filePath": "MJ Launcher_Data/Plugins/x86_64/krisp-bvc-o-pro-v3.kef",
+            "hash": "3f65d975ee4487931aff462e71e740a37b581817f9bad860590b194409688859",
+            "fileSize": 15122004
+        },
+        {
+            "filePath": "MJ Launcher_Data/Plugins/x86_64/krisp-nc-o-lite-v1.kef",
+            "hash": "7fdff67057090f402fb7688b29bf0afbd65cb1ed6a6956d2e304b5f3d84afa48",
+            "fileSize": 2895574
+        },
+        {
+            "filePath": "MJ Launcher_Data/Plugins/x86_64/krisp-nc-o-med-v7.kef",
+            "hash": "1b421bd27f892c6aef041496c939da4f31360fda36d55b83e48435cae89d246f",
+            "fileSize": 5880640
+        },
+        {
+            "filePath": "MJ Launcher_Data/Plugins/x86_64/krisp-nc-o-nb-v2.kef",
+            "hash": "b3d2737fae2e6f900f7efb33aa17a3b6e6548e48ebcfbf5bd2f0746eec04c086",
+            "fileSize": 2822586
+        },
+        {
+            "filePath": "MJ Launcher_Data/Plugins/x86_64/krisp-vad-o-v2.kef",
+            "hash": "092c397f12443e5f2bdd07428b9e193ce359f6a08bfb403807c540f18647b3f3",
+            "fileSize": 592233
+        },
+        {
             "filePath": "MJ Launcher_Data/Plugins/x86_64/lib_burst_generated.dll",
             "hash": "85b97b6b9fb87fbdc3b68673ad245124a43106933540dff613e20f8034910cf4",
             "fileSize": 209408
@@ -988,17 +1028,17 @@
         },
         {
             "filePath": "MJ Launcher_Data/StreamingAssets/aa/catalog.bin",
-            "hash": "3e341c5721a2e96e883bff1613f5d2d35ebc9733c4e80677f9e723a1a017c836",
-            "fileSize": 2427
+            "hash": "b8cb8cd48c507dee12ce4d15986e5e4634f15385537696f2c04886489e2cf560",
+            "fileSize": 7799
         },
         {
             "filePath": "MJ Launcher_Data/StreamingAssets/aa/catalog.hash",
-            "hash": "5ebf0ba6a34dcf9d4abe9b2f538fb06bac461ca07b5426c41d5997ff5d457ade",
+            "hash": "4032c7215677f9515123dbc272e659e087e8aa04001c6645e914681dcf04a9ee",
             "fileSize": 32
         },
         {
             "filePath": "MJ Launcher_Data/StreamingAssets/aa/settings.json",
-            "hash": "44642980948b98668637b45b7462456313cac9d374d71b121443f1de8e657740",
+            "hash": "c9dcbb6dde31f36f28449e51187cb7f89ce1e8dba1a17dd82a15a088bc6bda10",
             "fileSize": 864
         },
         {
@@ -1018,13 +1058,38 @@
         },
         {
             "filePath": "MJ Launcher_Data/StreamingAssets/aa/AddressablesLink/link.xml",
-            "hash": "2c3c62effbbc2ca76a43d8bc118de4b3eeb377297bd386ad3f868782bfd8449d",
-            "fileSize": 1355
+            "hash": "464294c50133c5cf0550e9e19fc2e600d9be865c4a05af06a7e3a4730ff6dc47",
+            "fileSize": 4129
         },
         {
-            "filePath": "MJ Launcher_Data/StreamingAssets/aa/StandaloneWindows64/8023b975172b41dc0b9e218ba8b99698_monoscripts_7641c384b60e8f2f4153354a027e714a.bundle",
-            "hash": "80ab6dbda150600e2643bcbf500d66b184dc98b91068f3f1073c916d8b46e966",
-            "fileSize": 1594
+            "filePath": "MJ Launcher_Data/StreamingAssets/aa/StandaloneWindows64/8023b975172b41dc0b9e218ba8b99698_monoscripts_e4a1a3491458055d239f0b051c69af84.bundle",
+            "hash": "49f559cb10cc54600d13eb5b79ca3096bd343d961d7cb5eb9a9e670fee0a2d7a",
+            "fileSize": 1835
+        },
+        {
+            "filePath": "MJ Launcher_Data/StreamingAssets/aa/StandaloneWindows64/localization-asset-tables-arabic(ar)_assets_all.bundle",
+            "hash": "b721971f5bda66208a5a230b83e4065f56f17e324052e45a9c5c5d4f9140fa8f",
+            "fileSize": 2145
+        },
+        {
+            "filePath": "MJ Launcher_Data/StreamingAssets/aa/StandaloneWindows64/localization-asset-tables-english(en)_assets_all.bundle",
+            "hash": "364555c48fcd50d08bdb8e5f59aa17e1e3d2725a78a9a085d35b4de0e588a174",
+            "fileSize": 2147
+        },
+        {
+            "filePath": "MJ Launcher_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-arabic(ar)_assets_all.bundle",
+            "hash": "43c3dc7bb23d56ba284029cbbe7e838f70c67644cfd4f5881b006a6a04cd4d8f",
+            "fileSize": 750659
+        },
+        {
+            "filePath": "MJ Launcher_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-english(en)_assets_all.bundle",
+            "hash": "6d2eb8a89ba276c480055632e97b946bf002ef0c4fc24d514fbbd0158c69b6af",
+            "fileSize": 945028
+        },
+        {
+            "filePath": "MJ Launcher_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-shared_assets_all.bundle",
+            "hash": "2320608c708e7ae3ba0cc74d1f81d15d973af4859b0b3f73963a6dceccbb3efa",
+            "fileSize": 3251
         },
         {
             "filePath": "MJ Launcher_Data/StreamingAssets/aa/StandaloneWindows64/localization-locales_assets_all.bundle",
@@ -1032,9 +1097,19 @@
             "fileSize": 2067
         },
         {
+            "filePath": "MJ Launcher_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-arabic(ar)_assets_all.bundle",
+            "hash": "d906eaa1558468bc0cccaa782ef6f04cadf98ff832c884c9334b44ca82e99a94",
+            "fileSize": 3174
+        },
+        {
+            "filePath": "MJ Launcher_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-english(en)_assets_all.bundle",
+            "hash": "f82e6c5ec51e2992649d65bd70551c11adc6199e49fe61ddd275cd158226f5ec",
+            "fileSize": 3042
+        },
+        {
             "filePath": "MJ Launcher_Data/StreamingAssets/aria2/windows/aria2.conf",
-            "hash": "41b22d1f18ca753d32d75c02c9e1c94201703f6429fdc9d94f6ea30d6cd3af71",
-            "fileSize": 396
+            "hash": "2536a95515c6f98fd752ac9da191900f7932b3adb406f2bc7571e4a8515fa95e",
+            "fileSize": 417
         },
         {
             "filePath": "MJ Launcher_Data/StreamingAssets/aria2/windows/aria2c.exe",
